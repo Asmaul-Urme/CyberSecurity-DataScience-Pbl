@@ -1,8 +1,0 @@
-# Ignore macOS/Unix hidden files
-._*
-.DS_Store
-
-# Ignore Git metadata (except .gitignore and .gitlab-ci.yml)
-.git/*
-!.gitignore
-!.gitlab-ci.yml
