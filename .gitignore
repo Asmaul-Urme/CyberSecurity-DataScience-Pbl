@@ -6,3 +6,4 @@
 .git/*
 !.gitignore
 !.gitlab-ci.yml
+._requirement.txt
