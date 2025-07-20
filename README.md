@@ -22,7 +22,7 @@
 ```markdown
 ## 📂Project Structure
 
-```plaintext
+
 .
 ├── Part1/
 │   ├── data_students/
