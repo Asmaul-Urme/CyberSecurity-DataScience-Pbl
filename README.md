@@ -15,9 +15,14 @@
 
 ---
 
-## 📂 Project Structure  
+ 
 
 
+
+```markdown
+## 📂Project Structure
+
+```plaintext
 .
 ├── Part1/
 │   ├── data_students/
@@ -25,13 +30,10 @@
 │   ├── CDS_project_part1.ipynb
 │   ├── model_2023_03_28_20_03.ph
 │   └── requirements.txt
-│
 ├── Part2/
 │   └── CDS_project_part2.ipynb
-│
 ├── Part3/
 │   ├── CDS_project_part3.ipynb
 │   └── label_dataset_final.csv
-│
 ├── .gitignore
 └── README.md
