@@ -41,9 +41,9 @@
 
 ## Team Contributions
 
-| PBL Task                              | Md Abdul, Hamid | Jessica Jacob | Md Tawfiq, Bashar | Asmaul husna, Urme |
-|---------------------------------------|-----------------|---------------|-------------------|--------------------|
-| **Data collection and preprocessing** | 15%             | 30%           | 20%               | 35%                |
-| **Model development**                 | 30%             | 25%           | 30%               | 15%                |
-| **Evaluation and analysis**           | 30%             | 20%           | 25%               | 25%                |
-| **Tooling and infrastructure**        | 25%             | 25%           | 25%               | 25%                |
+| PBL Task                             |Md Abdul,Hamid|Jessica Jacob|Md Tawfiq,Bashar| Asmaul husna, Urme |
+|--------------------------------------|--------------|-------------|----------------|--------------------|
+|**Data collection and preprocessing** | 15%          | 30%         | 20%            | 35%                |
+|**Model development**                 | 30%          | 25%         | 30%            | 15%                |
+|**Evaluation and analysis**           | 30%          | 20%         | 25%            | 25%                |
+|**Tooling and infrastructure**        | 25%          | 25%         | 25%            | 25%                |
