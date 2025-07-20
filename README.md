@@ -8,21 +8,32 @@
 ## 🧑‍💻 Team Members  
 | Name                | Matriculation No | Role          |  
 |---------------------|------------------|---------------|  
-| tawfiq        | 123456           | Maintainer    |  
-| hamid       | 789012           | Developer     |  
-| jessica       | 345678           | Developer     |  
-| urme       | 345678           | Developer     | 
+| Md Tawfiq, Bashar| 642521
+          | Maintainer    |  
+| Md Abdul, Hamid | 641467
+          | Developer     |  
+| Jessica, Jacob|     | 640217          | Developer     |  
+| Asmaul Husna,Urme| 633736 
+           | Developer     | 
 
 ---
 
 ## 📂 Project Structure  
-```plaintext
+
+
 .
-├── data/               # Datasets (raw/processed)
-├── notebooks/          # Jupyter/Colab analysis
-├── src/                # Scripts (preprocessing, models)
-│   ├── train.py        # Model training
-│   └── evaluate.py     # Performance metrics
-├── docs/               # Report drafts, presentations
-├── .gitlab-ci.yml      # CI/CD pipeline (optional)
-└── requirements.txt    # Python dependencies
+├── Part1/                     
+│   ├── data_students/         
+│   │   └── student_dataset.hdf5
+│   ├── CDS_project_part1.ipynb  
+│   └── requirements.txt       
+│
+├── Part2/                     
+│   └── CDS_project_part2.ipynb  
+│
+├── Part3/                     
+│   ├── CDS_project_part3.ipynb  
+│   └── label_dataset_final.csv 
+│
+├── .gitignore
+└── README.md
