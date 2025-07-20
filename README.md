@@ -43,7 +43,7 @@
 
 | PBL Task                              | Md Abdul, Hamid | Jessica Jacob | Md Tawfiq, Bashar | Asmaul husna, Urme |
 |---------------------------------------|-----------------|---------------|-------------------|--------------------|
-| **Data collection and preprocessing**<br>(e.g., identification and mining of relevant data) | 15%            | 30%           | 20%               | 35%                |
-| **Model development**<br>(e.g., selected, implemented and trained the models) | 30%            | 25%           | 30%               | 15%                |
-| **Evaluation and analysis**<br>(e.g., compute and interpret performance metrics) | 30%            | 20%           | 25%               | 25%                |
-| **Tooling and infrastructure**<br>(e.g., set up repo, containers, etc.) | 25%            | 25%           | 25%               | 25%                |
+| **Data collection and preprocessing** | 15%             | 30%           | 20%               | 35%                |
+| **Model development**                 | 30%             | 25%           | 30%               | 15%                |
+| **Evaluation and analysis**           | 30%             | 20%           | 25%               | 25%                |
+| **Tooling and infrastructure**        | 25%             | 25%           | 25%               | 25%                |
